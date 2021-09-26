@@ -1,5 +1,5 @@
-Here interpreted movies data with diffrent apps such as python,r,sas,tableau,excel.
+⏺ interpreted movies data with diffrent apps such as python,r,sas,tableau,excel.
 
-Liner regresssion on canada's percapita income
+⏺ Liner regresssion on canada's percapita income
 
-eda on with hyndi data
+⏺ eda on with hyndi data
