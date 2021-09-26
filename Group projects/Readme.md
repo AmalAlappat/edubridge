@@ -1,4 +1,4 @@
-⏺ interpreted movies data with diffrent apps such as python,r,sas,tableau,excel.
+⏺  final project: interpreted movies data with diffrent apps such as python,r,sas,tableau,excel.
 
 ⏺ Liner regresssion on canada's percapita income
 
