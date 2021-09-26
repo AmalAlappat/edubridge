@@ -1,4 +1,4 @@
-This folder consits 3 python🐍 files
+This folder consits of 3 python🐍 files
 
 ⏺ loop statements 
 
