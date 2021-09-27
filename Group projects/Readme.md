@@ -1,14 +1,16 @@
 ⏺  final project: interpreted movies data with diffrent apps such as python,r,sas,tableau,excel.
 
-  ✅ movie_data_analysis.ipynb-python
+      ✅ data which we used-movies.csv
 
-  ✅ Movie Data Analysis-172.pdf-r
+      ✅ movie_data_analysis.ipynb-python
 
-  ✅ Movie_Project.sas-sas
+      ✅ Movie Data Analysis-172.pdf-r
 
-  ✅ Dashboard 1 (1).pdf-tableau
+      ✅ Movie_Project.sas-sas
 
-  ✅ movies.xlsb-excel
+      ✅ Dashboard 1 (1).pdf-tableau
+
+      ✅ movies.xlsb-excel
 
 ⏺ Liner regresssion on canada's percapita income
 
