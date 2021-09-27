@@ -11,6 +11,8 @@
       ✅ Dashboard 1 (1).pdf-tableau
 
       ✅ movies.xlsb-excel
+      
+      ✅project report 1.pdf- report
 
 ⏺ Liner regresssion on canada's percapita income
 
